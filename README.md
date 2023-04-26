@@ -1,6 +1,8 @@
 # Data-Analytics-Projects
 Here are all the practise Data Analytics projects I have worked on using Power BI/Tableau/MS Excel.
 
+Power BI Projects
+
 'The Adventure Works' Power BI report and 'Maven Market' Power BI report are created by me as projects under course 'Microsoft Power BI Desktop for Business Intelligence' 
 from Maven Analytics from Udemy.
 
